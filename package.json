@@ -9,7 +9,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "axios": "^0.18.0",
+    "download-file": "^0.1.5",
     "lodash": "^4.17.11",
-    "robotjs": "^0.5.1"
+    "robotjs": "^0.5.1",
+    "wallpaper": "^4.1.0"
   }
 }
